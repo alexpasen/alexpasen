@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexandr @alexpasen
+- 👀 I’m interested in developing Golang and C++ apps
+- 🌱 I’m currently learning golang microservices
+- 📫 You can reach me by email a.a.pasenyuk@gmail.com
